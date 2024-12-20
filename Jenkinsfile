@@ -13,7 +13,7 @@ pipeline {
         } 
         stage('Run Ansible Playbook') { 
             steps { 
-             echo'testing
+             echo'testing'
             } 
         } 
     } 
