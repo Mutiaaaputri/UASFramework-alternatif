@@ -11,7 +11,7 @@ pipeline {
                 echo'run'
             } 
         } 
-        stage('Run Ansible Playbook') { 
+        stage('Run Ansible Playbook1') { 
             steps { 
              echo'testing'
             } 
