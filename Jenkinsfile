@@ -25,6 +25,4 @@ pipeline {
             echo 'Deployment failed!' 
 } 
 } 
-} 
-Jenkins file berfungsi untuk mengkonfigurasikan pipeline pad program yang dibuat. 
-Buat file lagi Namanya hosts
+}
